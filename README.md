@@ -1,4 +1,5 @@
-## Data sources & how to fetch them
+# CUDA-Course3_Project
+## Data sources
 
 We use the following resources for images and audio for the assignment — NOTE: do not commit large datasets into repo. Use `data_downloader.sh` to pull small example files for lab tests; for full datasets download manually and place under `data/`:
 
