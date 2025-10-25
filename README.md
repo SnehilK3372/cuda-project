@@ -1,1 +1,2 @@
 # cuda-project
+Implemented a batch image-processing pipeline in Python/OpenCV that performs contrast enhancement (CLAHE), denoising, edge-detection, and outputs processed images plus a CSV of per-image metrics. The pipeline uses multiprocessing to scale to hundreds of images and includes an optional GPU-accelerated module for extra speed. Proof of execution includes several processed images in outputs/processed/, outputs/results.csv, and outputs/run.log.
